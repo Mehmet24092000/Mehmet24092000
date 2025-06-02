@@ -74,9 +74,8 @@ Ich bin Student der Medieninformatik an der Berliner Hochschule für Technik (BH
 
 ###
 
-<h3 align="left">📊 Stats</h3>
+📊 Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mehmet24092000&locale=de&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" height="220" alt="GitHub Streak Stats" />
-</div>
+
+  ![](https://github-readme-stats.vercel.app/api?username=Mehmet24092000&show_icons=true&theme=dracula)
 
